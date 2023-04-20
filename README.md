@@ -1,1 +1,1 @@
-R-code accompanying the manuscript "Evaluating the power of a recent method for comparing two circular distributions"
+R-code accompanying the manuscript "Evaluating the power of a recent method for comparing two circular distributions". The code is optimized for parallel processing on a high performance computing cluster.
